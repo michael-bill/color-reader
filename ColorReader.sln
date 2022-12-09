@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorReader", "ColorReader\ColorReader.csproj", "{9A1847E3-E622-4275-AD28-20053BB7073F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A1847E3-E622-4275-AD28-20053BB7073F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1847E3-E622-4275-AD28-20053BB7073F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1847E3-E622-4275-AD28-20053BB7073F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1847E3-E622-4275-AD28-20053BB7073F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A61CA79-8E18-481B-86B2-2B8F6C1B00EF}
+	EndGlobalSection
+EndGlobal
