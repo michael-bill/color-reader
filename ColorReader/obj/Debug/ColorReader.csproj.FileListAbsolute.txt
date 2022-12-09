@@ -1,0 +1,28 @@
+D:\coding\C#\ColorReader\ColorReader\obj\Debug\ColorReader.csprojAssemblyReference.cache
+D:\coding\C#\ColorReader\ColorReader\obj\Debug\ColorReader.ColorReader.resources
+D:\coding\C#\ColorReader\ColorReader\obj\Debug\ColorReader.Properties.Resources.resources
+D:\coding\C#\ColorReader\ColorReader\obj\Debug\ColorReader.csproj.GenerateResource.cache
+D:\coding\C#\ColorReader\ColorReader\obj\Debug\ColorReader.csproj.CoreCompileInputs.cache
+D:\coding\C#\ColorReader\ColorReader\bin\Debug\ColorReader.exe.config
+D:\coding\C#\ColorReader\ColorReader\bin\Debug\ColorReader.exe
+D:\coding\C#\ColorReader\ColorReader\bin\Debug\ColorReader.pdb
+D:\coding\C#\ColorReader\ColorReader\obj\Debug\ColorReader.exe
+D:\coding\C#\ColorReader\ColorReader\obj\Debug\ColorReader.pdb
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.csproj.AssemblyReference.cache
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.csproj.SuggestedBindingRedirects.cache
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.ColorReader.resources
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.Properties.Resources.resources
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.csproj.GenerateResource.cache
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.csproj.CoreCompileInputs.cache
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.exe
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.pdb
+D:\coding\C sharp\ColorReader\ColorReader\bin\Debug\ColorReader.exe.config
+D:\coding\C sharp\ColorReader\ColorReader\bin\Debug\ColorReader.exe.manifest
+D:\coding\C sharp\ColorReader\ColorReader\bin\Debug\ColorReader.application
+D:\coding\C sharp\ColorReader\ColorReader\bin\Debug\ColorReader.exe
+D:\coding\C sharp\ColorReader\ColorReader\bin\Debug\ColorReader.pdb
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.exe.manifest
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.application
+D:\coding\C sharp\ColorReader\ColorReader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.csproj.Fody.CopyLocal.cache
+D:\coding\C sharp\ColorReader\ColorReader\obj\Debug\ColorReader.csproj.CopyComplete
